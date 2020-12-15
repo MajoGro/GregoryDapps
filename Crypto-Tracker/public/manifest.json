@@ -1,0 +1,15 @@
+{
+  "short_name": "Starter Kit",
+  "name": "MajoGro Starter Kit",
+  "icons": [
+    {
+      "src": "https://4.bp.blogspot.com/-95hv9uuazls/UPfVuSutjQI/AAAAAAAAJ8o/B2K2Hw6Sh1w/s1600/%C5%BDaba3.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
